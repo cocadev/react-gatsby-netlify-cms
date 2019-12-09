@@ -1,4 +1,4 @@
-# Gatsby Challenge
+# React Netlify Gatsby Challenge
 
 This challenge is designed to test your ability to use [Gatsby](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycms.org/). Starting with the [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) project, you should make some additions and changes:
 
